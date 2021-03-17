@@ -20,3 +20,6 @@
     "build": "parcel build src/index.pug"
   },
 }
+
+* Yard Audit 
+* Contact Form: Clicking Submit Button will make form disapper and be replaced by text "Message sent. Thank you!"
