@@ -1,6 +1,7 @@
 # portfolio-v3
 * Add JQuery CDN instead of npm package
-* Remove Resume and have the skills take the entire section and add pdf link to resume
+* Remove Resume and don't include
+* Parcel Beta?
 
 
 {
@@ -21,5 +22,6 @@
   },
 }
 
-* Yard Audit 
+* Yarn Audit 
 * Contact Form: Clicking Submit Button will make form disapper and be replaced by text "Message sent. Thank you!"
+* After finishing v3, delete v2. 
