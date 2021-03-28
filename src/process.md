@@ -3,7 +3,7 @@
 
 ```
 yarn init -y
-yarn add parcel-bundler
+yarn add parcel-bundler pug sass --dev
 
 # In package.json: 
 "scripts": { "dev": "parcel src/pug/index.pug", "build": "parcel build src/pug/index.pug" }
