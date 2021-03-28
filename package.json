@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/7redeagle/portfolio-v3.git",
-  "author": "7redeagle",
+  "author": "7redeagle <25111698+7redeagle@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.pug",
