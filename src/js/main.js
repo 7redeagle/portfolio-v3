@@ -27,3 +27,6 @@ const observer = new IntersectionObserver(entries => {
 document.querySelectorAll('section[id]').forEach(section => {
   observer.observe(section);
 });
+
+// clicking submit button on contact form makes it disappear and the text "Get back to you soon!" appear
+const submitBut = document.querySelector('#submit'); 
