@@ -3,10 +3,10 @@
 
 ```
 yarn init -y
-yarn add parcel-bundler pug sass --dev
+yarn add cross-env parcel-bundler pug sass --dev
 
 # In package.json: 
-"scripts": { "dev": "parcel src/pug/index.pug", "build": "parcel build src/pug/index.pug" }
+"scripts": { "dev": "cross-env NODE_ENV=development parcel src/pug/index.pug", "build": "cross-env NODE_ENV=development parcel build src/pug/index.pug" }
 
 yarn dev : local server
 yarn build : build production version (netlify)
@@ -90,10 +90,3 @@ Main.scss: import all partials
 
 ## Footer
 2020 @ Copyright Website and Artwork designed and created by Me 
-
-
-
-
-
-
-
