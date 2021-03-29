@@ -3,7 +3,7 @@
 let options = {
   root: null,
   rootMargin: '0px',
-  threshold: 0.2 // change this is the section takes up more than 100vh
+  threshold: 0.2 // change this if the section takes up more than 100vh
 }
 
 // create observer
@@ -29,4 +29,4 @@ document.querySelectorAll('section[id]').forEach(section => {
 });
 
 // clicking submit button on contact form makes it disappear and the text "Get back to you soon!" appear
-const submitBut = document.querySelector('#submit'); 
+const submitBut = document.querySelector('#submit');
