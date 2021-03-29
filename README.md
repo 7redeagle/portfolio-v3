@@ -1,4 +1,4 @@
-# My Portfolio (version 2)
+# My Portfolio (version 3)
 
 The second version of <a href="https://inachen.netlify.app/" target="_blank">Ina Chen's portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 
