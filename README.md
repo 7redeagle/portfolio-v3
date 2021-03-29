@@ -1,6 +1,6 @@
 # My Portfolio (version 3)
 
-The second version of <a href="https://inachen.netlify.app/" target="_blank">Ina Chen's portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+The third version of <a href="https://inachen.netlify.app/" target="_blank">Ina Chen's portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bb0f8f56-961c-4e35-9975-82bde5c33ddc/deploy-status)](https://app.netlify.com/sites/inachen/deploys)
 
