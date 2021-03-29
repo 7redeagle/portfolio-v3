@@ -1,36 +1,3 @@
-// .contact__input {
-//   color: $text-color;
-//   border-radius: 5px;
-//   line-height: 22px;
-//   background-color: $card-bg;
-//   border: $contact-border;
-//   transition: all 0.3s;
-//   padding: 13px;
-//   margin-bottom: 15px;
-//   width: 100%;
-//   box-sizing: border-box;
-//   outline: 0;
-// }
-// .contact__input:focus {
-//   border: 2px solid $deep-blush-pink;
-// }
-// textarea {
-//   height: 150px;
-//   line-height: 150%;
-//   resize: vertical;
-// }
-// [type="submit"] {
-//   width: 100%;
-//   cursor: pointer;
-//   color: white;
-//   font-size: 24px;
-//   padding-top: 10px;
-//   padding-bottom: 10px;
-//   transition: all 0.3s;
-//   margin-top: -4px;
-//   font-weight: 700;
-// }
-
 .contact__image svg {
   padding: 1em;
   width: 100%;
@@ -60,6 +27,7 @@
 .contact__submit {
   position: relative;
   margin: 1em;
+
   & input {
     width: 100%;
   }
@@ -100,5 +68,5 @@
 
 .contact__input--text:focus+.contact__label,
 .contact__input--text:not(:placeholder-shown)+.contact__label {
-  transform: translateY(-2.5em);
+  transform: translateY(-2.7em);
 }

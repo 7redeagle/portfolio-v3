@@ -30,3 +30,8 @@ document.querySelectorAll('section[id]').forEach(section => {
 
 // clicking submit button on contact form makes it disappear and the text "Get back to you soon!" appear
 const submitBut = document.querySelector('#submit');
+
+submitBut.addEventListener("click", () => {
+  // alert("Thanks. Get back to you soon!")
+  // reload page
+})
