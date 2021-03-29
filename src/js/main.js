@@ -3,7 +3,7 @@
 let options = {
   root: null,
   rootMargin: '0px',
-  threshold: 0.2 // change this if the section takes up more than 100vh
+  threshold: .1 // change this if the section takes up more than 100vh
 }
 
 // create observer
