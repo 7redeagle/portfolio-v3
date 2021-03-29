@@ -22,18 +22,18 @@
   }
 }
 
-.btn--blue {
+.btn--projects {
   box-shadow:
-    0.3em 0.3em 0 0 $btn-blue,
-    inset 0.3em 0.3em 0 0 $btn-blue;
+    0.3em 0.3em 0 0 $btn-project,
+    inset 0.3em 0.3em 0 0 $btn-project;
   background: none;
   border: none;
   border-radius: 0px;
 
   &:hover {
     box-shadow:
-      0 0 0 0 $btn-blue,
-      inset 6em 3.5em 0 0 $btn-blue;
+      0 0 0 0 $btn-project,
+      inset 6em 3.5em 0 0 $btn-project;
     color: $white;
   }
 }
