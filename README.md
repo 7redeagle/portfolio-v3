@@ -1,8 +1,6 @@
 # My Portfolio (version 3)
 
-The third version of my <a href="https://inachen.netlify.app/" target="_blank">portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bb0f8f56-961c-4e35-9975-82bde5c33ddc/deploy-status)](https://app.netlify.com/sites/inachen/deploys)
+The third version of my <a href="https://inachen.netlify.app/" target="_blank">portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with Cloudflare Pages. 
 
 ![demo](https://github.com/7redeagle/portfolio-v2/blob/testing/src/assets/projects/portfolio-desktop.png?raw=true)
 
@@ -48,6 +46,7 @@ Please give me proper credit by linking back to [https://inachen.netlify.app/](h
 ## Credit 
 * Icons from [iconmonstr](https://iconmonstr.com/) and [Worldvectorlogo](https://worldvectorlogo.com/)
 * Grid System from [Pure CSS](https://purecss.io/grids/)
+* Backend Contatct form from [Formsubmit](https://formsubmit.co/)
 
 
 
