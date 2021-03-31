@@ -1,6 +1,6 @@
 # My Portfolio (version 3)
 
-The third version of my <a href="https://inachen.netlify.app/" target="_blank">portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with Cloudflare Pages. 
+The third version of my <a href="https://portfolio.ainchn.com/" target="_blank">portfolio</a> built with pug, scss and javascript. Bundled using <a href="https://parceljs.org/">Parcel</a>. Hosted with Cloudflare Pages. 
 
 ![demo](https://github.com/7redeagle/portfolio-v2/blob/testing/src/assets/projects/portfolio-desktop.png?raw=true)
 
