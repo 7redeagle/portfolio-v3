@@ -6,7 +6,7 @@ The third version of my <a href="https://portfolio.ainchn.com/" target="_blank">
 
 ## Cloning this repo 
 
-Please give me proper credit by linking back to [https://inachen.netlify.app/](https://inachen.netlify.app/). Thanks!
+Please give me proper credit by linking back to <a href="https://portfolio.ainchn.com/" target="_blank">my portfolio</a> Thanks!
 
 ### Requirements 
 * Node v14.0.0 (Current)
