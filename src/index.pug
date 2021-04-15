@@ -17,10 +17,9 @@ html(lang="en")
     link(rel="preconnect" href="https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic")
 
   body
-    script
-      console.log("Javascript is enabled")
     noscript
-      p Please enable Javascript for best experience.
+      nav
+        p Please enable Javascript for best experience.
 
     nav.navbar
       include pages/navbar.pug
@@ -40,7 +39,3 @@ html(lang="en")
       include pages/footer.pug
     
     script(src="/js/main.js")
-    
-    //Cloudflare Web Analytics
-    script(defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "43bace158de849418d0d940241fd1d0b"}')
-    //End Cloudflare Web Analytics 
