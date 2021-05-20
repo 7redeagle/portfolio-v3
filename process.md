@@ -6,11 +6,16 @@ yarn init -y
 yarn add cross-env parcel-bundler pug sass --dev
 
 # In package.json: 
-"scripts": { "dev": "cross-env NODE_ENV=development parcel src/pug/index.pug", "build": "cross-env NODE_ENV=development parcel build src/pug/index.pug" }
+"scripts": { "dev": "cross-env NODE_ENV=development parcel src/index.pug", "build": "cross-env NODE_ENV=development parcel build src/index.pug" }
 
 yarn dev : local server
 yarn build : build production version (netlify)
 ```
+
+Cloudflare Pages:
+Add '.node-version' files
+Add Version 14 
+Environment Variables: NODE_VERSION = 14 
 
 ## Assets
 - Logo SVG and PNG (Use as Parcel Favicon)
